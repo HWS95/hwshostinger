@@ -1,0 +1,2 @@
+# hwshostinger
+connect to hostinger
